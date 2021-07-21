@@ -1,1 +1,2 @@
-ejemplo del github
+git reset --hard origin/master
+git push --force origin master
